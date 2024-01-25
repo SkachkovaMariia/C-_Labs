@@ -1,0 +1,123 @@
+[
+  {
+    "FlightNumber": "AA609",
+    "Airline": "WizAir",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-23T02:13:44",
+    "ArrivalTime": "2023-01-23T07:19:44",
+    "Status": 1,
+    "Duration": "05:06:00",
+    "AircraftType": "Boeing 737",
+    "Terminal": "3"
+  },
+  {
+    "FlightNumber": "AA525",
+    "Airline": "MAU",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-23T03:46:41",
+    "ArrivalTime": "2023-01-23T06:03:41",
+    "Status": 1,
+    "Duration": "02:17:00",
+    "AircraftType": "Airbus A320",
+    "Terminal": "3"
+  },
+  {
+    "FlightNumber": "BA369",
+    "Airline": "MAU",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-23T07:34:10",
+    "ArrivalTime": "2023-01-23T10:34:10",
+    "Status": 1,
+    "Duration": "03:00:00",
+    "AircraftType": "AN 148",
+    "Terminal": "1"
+  },
+  {
+    "FlightNumber": "UA469",
+    "Airline": "MAU",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-23T07:55:11",
+    "ArrivalTime": "2023-01-23T15:04:11",
+    "Status": 1,
+    "Duration": "07:09:00",
+    "AircraftType": "Boeing 737",
+    "Terminal": "2"
+  },
+  {
+    "FlightNumber": "DL358",
+    "Airline": "Turkish Airlines",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-23T20:04:48",
+    "ArrivalTime": "2023-01-23T21:35:48",
+    "Status": 1,
+    "Duration": "01:31:00",
+    "AircraftType": "Boeing 737",
+    "Terminal": "3"
+  },
+  {
+    "FlightNumber": "DL202",
+    "Airline": "MAU",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-23T20:53:17",
+    "ArrivalTime": "2023-01-24T02:34:17",
+    "Status": 1,
+    "Duration": "05:41:00",
+    "AircraftType": "AN 148",
+    "Terminal": "1"
+  },
+  {
+    "FlightNumber": "BA192",
+    "Airline": "Turkish Airlines",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-23T22:59:46",
+    "ArrivalTime": "2023-01-24T06:09:46",
+    "Status": 1,
+    "Duration": "07:10:00",
+    "AircraftType": "Airbus A320",
+    "Terminal": "3"
+  },
+  {
+    "FlightNumber": "DL509",
+    "Airline": "WizAir",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-24T03:34:22",
+    "ArrivalTime": "2023-01-24T08:42:22",
+    "Status": 1,
+    "Duration": "05:08:00",
+    "AircraftType": "AN 148",
+    "Terminal": "3"
+  },
+  {
+    "FlightNumber": "AF395",
+    "Airline": "WizAir",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-24T07:08:44",
+    "ArrivalTime": "2023-01-24T08:49:44",
+    "Status": 1,
+    "Duration": "01:41:00",
+    "AircraftType": "Boeing 757",
+    "Terminal": "1"
+  },
+  {
+    "FlightNumber": "AF652",
+    "Airline": "Turkish Airlines",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-24T08:22:57",
+    "ArrivalTime": "2023-01-24T12:18:57",
+    "Status": 1,
+    "Duration": "03:56:00",
+    "AircraftType": "Boeing 787",
+    "Terminal": "1"
+  },
+  {
+    "FlightNumber": "UA362",
+    "Airline": "MAU",
+    "Destination": "New York",
+    "DepartureTime": "2023-01-24T15:24:47",
+    "ArrivalTime": "2023-01-24T16:54:47",
+    "Status": 1,
+    "Duration": "01:30:00",
+    "AircraftType": "Boeing 787",
+    "Terminal": "3"
+  }
+]
